@@ -1,0 +1,24 @@
+{
+  "name": "wintermbgcycler",
+  "version": "0.0.1",
+  "description": "Cycle through various backgrounds in Windows Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApocalypseCalculator/WinTermBgCycler.git"
+  },
+  "keywords": [
+    "Windows",
+    "Terminal",
+    "Background"
+  ],
+  "author": "ApocalypseCalculator",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ApocalypseCalculator/WinTermBgCycler/issues"
+  },
+  "homepage": "https://github.com/ApocalypseCalculator/WinTermBgCycler#readme"
+}
